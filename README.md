@@ -1,4 +1,4 @@
-## Hi, I'm Karan 👨‍💻
+## Hi, I'm Lab 2 👨‍💻
 
 #### B.Tech. student at Vishwakarma Institute of Technology, Pune.
 ![](https://komarev.com/ghpvc/?username=Drakeoonqx&color=79b8ff)
